@@ -42,3 +42,53 @@ h1{
   width: 200px;
   color: white;
 }
+section{
+  width: 80vw;
+  height: 500px;
+}
+.uno{
+  width: 20vw;
+  height: 400px;
+  background: white;
+  float: left;
+  margin-top: 15px;
+}
+h3{
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+p{
+  font-family: arial;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.due{
+  width: 30vw;
+  height: 400px;
+  background: white;
+  float: left;
+  margin-top: 15px;
+  margin-left: 65px;
+}
+h2{
+  text-align: center;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.tre{
+  width: 20vw;
+  height: 400px;
+  float: right;
+  margin-top: 15px;
+}
+.primo, .secondo{
+  width: 20vw;
+  height: 180px;
+  background: white;
+}
+.secondo{
+  margin-top: 20px;
+}
